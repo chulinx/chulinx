@@ -20,6 +20,7 @@ Groovy       28 mins         █░░░░░░░░░░░░░░░░
 <br/>
 
 <br/>
+
 ### Github Repo
 
 😄 There som my code
@@ -31,4 +32,4 @@ Groovy       28 mins         █░░░░░░░░░░░░░░░░
 
 
 ### MY Blog
-<a href="https://chulinx.github.io/"><img style="margin: auto;" src="https://raw.githubusercontent.com/chulinx/imgs/master/20201116223130.png" alt=blog width="60" height="60"/></a>
+<a href="https://chulinx.github.io/"><img style="margin: auto;" src="https://raw.githubusercontent.com/chulinx/imgs/master/20201116223130.png" alt=blog width="80" height="60"/></a>
