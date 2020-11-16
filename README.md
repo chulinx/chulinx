@@ -2,6 +2,15 @@
 
 <img align='right' src="https://chulinx.github.io/img/timg.png" alt=blog width="195" height="195"/>
 
+### Aubout me 
+
+love tech and like code
+
+<hr>
+
+<br/>
+
+<br/>
 [![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chulinx&show_icons=true)](https://github.com/chulinx)
 
 
