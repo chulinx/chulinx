@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chulinx&repo=vttable&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
 
 ### MY Blog
-<a href="https://chulinx.github.com"><img style="margin: auto;" src="https://raw.githubusercontent.com/chulinx/imgs/master/20201116222040.png" alt=blog width="60" height="60"/></a>
+<a href="https://chulinx.github.io/"><img style="margin: auto;" src="https://raw.githubusercontent.com/chulinx/imgs/master/20201116222040.png" alt=blog width="60" height="60"/></a>
