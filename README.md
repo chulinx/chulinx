@@ -20,8 +20,8 @@ Javascript   2years     ████████░░░░░░░░░░�
 
 😄 There som my code
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chulinx&repo=ok8s&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chulinx&repo=vttable&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chulinx&repo=ok8s&show_owner=true)](https://github.com/chulinx/ok8s)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chulinx&repo=vttable&show_owner=true)](https://github.com/chulinx/vttable)
 
 [![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chulinx&show_icons=true)](https://github.com/chulinx)
 
