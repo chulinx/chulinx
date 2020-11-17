@@ -14,14 +14,7 @@ Golang       2.5years   █████████░░░░░░░░░�
 Javascript   2years     ████████░░░░░░░░░░░░░░░░░   
 ```
 
-
 <hr>
-
-<br/>
-
-<br/>
-
-
 
 ### 📄 Github Repo
 
@@ -32,6 +25,7 @@ Javascript   2years     ████████░░░░░░░░░░�
 
 [![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chulinx&show_icons=true)](https://github.com/chulinx)
 
+<hr>
 
 ### 📓 MY Blog
 <a href="https://chulinx.github.io/"><img style="margin: auto;" src="https://raw.githubusercontent.com/chulinx/imgs/master/20201116223130.png" alt=blog width="80" height="60"/></a>
