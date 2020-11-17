@@ -2,16 +2,16 @@
 
 <img align='right' src="https://chulinx.github.io/img/timg.png" alt=blog width="195" height="195"/>
 
-### Aubout me 
+### 😎 Aubout me 
 
 Love tech and like code
 
 ```
-JavaScript   9 hrs 53 mins   ██████████████████░░░░░░░   74.31 % 
-JSON         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Other        58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Prolog       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Groovy       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Linux        5years     ██████████████████░░░░░░░   
+Kubernetes   2years     ████████░░░░░░░░░░░░░░░░░ 
+Python       3years     ██████████░░░░░░░░░░░░░░░   
+Golang       2.5years   █████████░░░░░░░░░░░░░░░░   
+Javascript   2years     ████████░░░░░░░░░░░░░░░░░   
 ```
 
 
@@ -21,7 +21,9 @@ Groovy       28 mins         █░░░░░░░░░░░░░░░░
 
 <br/>
 
-### Github Repo
+
+
+### 📄 Github Repo
 
 😄 There som my code
 
@@ -31,5 +33,5 @@ Groovy       28 mins         █░░░░░░░░░░░░░░░░
 [![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chulinx&show_icons=true)](https://github.com/chulinx)
 
 
-### MY Blog
+### 📓 MY Blog
 <a href="https://chulinx.github.io/"><img style="margin: auto;" src="https://raw.githubusercontent.com/chulinx/imgs/master/20201116223130.png" alt=blog width="80" height="60"/></a>
