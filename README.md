@@ -2,9 +2,10 @@
 
 <img align='right' src="https://chulinx.github.io/img/timg.png" alt=blog width="195" height="195"/>
 
-### 😎 Aubout me 
+### 😎  Aubout me 
 
-Love tech and like code
+I'm trying to show you my skills, but only part of it ！
+
 
 ```
 Linux        5years     ██████████████████░░░░░░░   
@@ -16,9 +17,9 @@ Javascript   2years     ████████░░░░░░░░░░�
 
 <hr>
 
-### 📄 Github Repo
+### 📄  Github Repo
 
-😄 There som my code
+😄  There som my code
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chulinx&repo=ok8s&show_owner=true)](https://github.com/chulinx/ok8s)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chulinx&repo=vttable&show_owner=true)](https://github.com/chulinx/vttable)
@@ -27,5 +28,5 @@ Javascript   2years     ████████░░░░░░░░░░�
 
 <hr>
 
-### 📓 MY Blog
+### 📓  MY Blog
 <a href="https://chulinx.github.io/"><img style="margin: auto;" src="https://raw.githubusercontent.com/chulinx/imgs/master/20201116223130.png" alt=blog width="80" height="60"/></a>
